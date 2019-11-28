@@ -7,7 +7,7 @@ Windows:
  2. flask run 
  
 Linux:
- 1. env/bin/activate
+ 1. venv/bin/activate
  2. flask run
  
  
